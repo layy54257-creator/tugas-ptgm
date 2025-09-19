@@ -1,0 +1,69 @@
+ # operasi tambah +
+a=10
+b=3
+hasil = a + b
+print(a,'+',b,'=',hasil)
+
+
+
+
+# operasi pengurangan -
+hasil = a - b
+print(a,'-',b,'=',hasil)
+
+
+
+
+# operasi pengurangan *
+hasil = a * b
+print(a,'*',b,'=',hasil)
+
+
+
+
+# operasi pembagian /
+hasil = a / b
+print(a,'/',b,'=',hasil)
+
+
+
+
+
+# operasi sisa bagi %
+hasil = a % b
+print(a,'%',b,'=',hasil)
+  
+  
+  
+  
+  
+# operasi pemangkatan **
+hasil = a ** b 
+print(a,'**',b,'=',hasil)
+  
+  
+
+
+# operator ==
+hasil = a == b
+print(a,'==',b,'=' ,hasil)
+
+# operator !=
+hasil = a != b
+print(a,'!=',b,'=' ,hasil)
+
+# operator >
+hasil = a > b
+print(a,'>',b,'=' ,hasil)
+
+#operator <
+hasil = a < b
+print(a,'<',b,'=' ,hasil)
+
+# operator >=
+hasil = a >= b
+print(a,'>=',b,'=' ,hasil)
+
+#operator <=
+hasil = a <= b
+print(a,'<=',b,'=' ,hasil)
